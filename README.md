@@ -4,11 +4,17 @@ The University Management Application is a C++ program designed to streamline va
 # Features:
 <b>Fee Management:</b>
 Allows the finance department to handle fee-related tasks, such as fee payment and generating fee receipts.
+
 <b>Admin Login:</b> Provides an admin login functionality for authorized personnel to access administrative features.
+
 <b><b>Student Section:</b> Allows admins to view student details by username and lists all students in a specific department.
+  
 <b>Faculty Section:</b> Enables admins to view faculty details by username and lists all faculties in a specific department.
+  
 <b>Student Login:</b> Allows students to log in to view their personal details and academic results.
+  
 <b>Faculty Login:</b> Provides faculty members with login access to view their personal details.
+  
   
 # OOP features used in this project:
   Class

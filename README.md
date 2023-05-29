@@ -18,7 +18,11 @@ Allows the finance department to handle fee-related tasks, such as fee payment a
   
 # OOP features used in this project:
   Class
+  
   Encapsulation
+  
   Inheritance
+  
   File I/O operation
+  
   Console I/0 Operation etc.  

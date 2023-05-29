@@ -1,0 +1,5 @@
+18PHY001 Rakshit Kachadiya KUET PHY
+18PHY002 Jay Mandaviya KUET PHY
+18PHY003 Shubham Pandya KUET PHY
+18PHY004 Shubham Raval KUET PHY
+18PHY005 Kashyap Shah KUET PHY
